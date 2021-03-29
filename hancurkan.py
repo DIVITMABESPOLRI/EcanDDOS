@@ -18,7 +18,7 @@ def usage():
     print "#               \033[1;91m<--[HOME ALONE CHILD]-->         \033[1;32m  ##"
     print "############################################################"
     print "     Member:ECHO 2319 DELTA 16298 JULIET 24491"
-    print "           PembuatDdos1: Danendra - HOME ALONE CHILD
+    print "           PembuatDdos1: Danendra - HOME ALONE CHILD"
     print "          PembuatDdos2:Mozesha"
 def flood(victim, vport, duration):
     # Support us yaakk... :) # GREETS MCI
