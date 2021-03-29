@@ -11,7 +11,7 @@ def usage():
     print "#\033[1;91mCreator:Danendra \033[1;32m##      #      #                     ##"
     print "#\033[1;91mTeam   : HAC       \033[1;32m##     #      #                     ##"
     print "#\033[1;91mVersion:1.0        \033[1;32m##      #      #                     ##"
-    print "#\033[1;91mTQAdmin:Danendra -Mozesha  ##"
+    print "#\033[1;91mTQAdmin: Danendra -Mozesha  ##"
     print "#\033[1;91m       :TAN91212  IAOER59334 UIO1231 MKO51385##"
     print "#                     \033[1;91m ##     \033[1;32m#  \033[1;91m  \033[1;32   ##"
     print "#                     \033[1;91m##  \033[1;32m###   \033[1;91m  \033[1;32m   ##"
